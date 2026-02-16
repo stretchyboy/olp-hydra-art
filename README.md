@@ -8,7 +8,7 @@ Welcome to **olp-hydra-art**! This project is maintained by [UTCSheffield](https
 ## Overview
 
 `olp-hydra-art` is a repository of our [MakerClub](https://makerclub.netlify.app/) generative art using [Hydra](https://hydra.ojack.xyz/), a livecoding environment for visuals. 
-The uses their code at random, adds random images if they suit the pattern and quarter of the time tries to tranform everything into school colours.
+The page uses one script for m, the students (at random), adds 3 images from a pool related to the hitory of computing (if they suit the pattern) and quarter of the time tries to tranform everything into school colours.
 
 ## Features
 
