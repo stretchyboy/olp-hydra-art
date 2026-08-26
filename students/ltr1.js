@@ -1,5 +1,5 @@
-s0.initImage("https://th.bing.com/th/id/OIP.2stYdpfk62fcRZIl9Lr3HAHaFW?rs=1&pid=ImgDetMain");
-s1.initImage("https://th.bing.com/th/id/R.cad1ba09a5482a609f99e2c06a33d4cf?rik=4OiPf5icmMeWOQ&riu=http%3a%2f%2ffarm7.staticflickr.com%2f6041%2f6265559256_2ddef4556b_z.jpg&ehk=dJOjS8RgLmpneAdhdEaRjKlpIe%2bEGu8xrE9pNq7TV5s%3d&risl=&pid=ImgRaw&r=0");
+s0.initImage('https://th.bing.com/th/id/OIP.2stYdpfk62fcRZIl9Lr3HAHaFW?rs=1&pid=ImgDetMain');
+s1.initImage('https://th.bing.com/th/id/R.cad1ba09a5482a609f99e2c06a33d4cf?rik=4OiPf5icmMeWOQ&riu=http%3a%2f%2ffarm7.staticflickr.com%2f6041%2f6265559256_2ddef4556b_z.jpg&ehk=dJOjS8RgLmpneAdhdEaRjKlpIe%2bEGu8xrE9pNq7TV5s%3d&risl=&pid=ImgRaw&r=0');
 // src(s0).blend(s1, () => Math.sin((time)) )
 src(o0)
     .modulate(noise(2), 10.705)
